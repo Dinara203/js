@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.buttons{
+    padding: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+.button1{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(177, 177, 177);
+    border: 1px solid rgb(177, 177, 177);
+    cursor: pointer;
+}
+.button2{
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.button3{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.button4{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.button5{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+.button6{
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
