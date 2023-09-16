@@ -1,0 +1,8 @@
+.block{
+    background-color: rgb(141, 123, 158);
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+}
